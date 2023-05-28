@@ -1,0 +1,23 @@
+2
+Vat Li
+3
+Lich Su
+2
+Pham Dinh Duc
+12a2
+0904967
+8 8 7 7.5 3 B
+8 8 9 8.5 4 A
+3.4
+Pham Bich Loan
+12a2
+0204967
+9 9 8 8.5 4 A
+8 7 7 7.2 3 B
+3.6
+Nguyen Dinh Hung
+12a3
+0104967
+9 9 8 8.5 4 A
+8 8 7 7.5 3 B
+3.6
